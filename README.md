@@ -34,8 +34,8 @@
 ## Output:
 ![ex 4](https://github.com/23002824/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151514009/5ac603c5-a7ab-4fbd-aad6-6737d6104106)
 
-### Name:Danica Christa Babudurai
-### Register Number:23002824
+### Name:Sanjai S
+### Register Number:23003393
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
